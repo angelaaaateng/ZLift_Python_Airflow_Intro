@@ -25,7 +25,9 @@ https://docs.google.com/document/d/1kPV7WH6bx1y6STddeg4Lg_2CLapnFwdK6DYRLRV9vVw/
       1. Lists
       2. Tuples
       3. Dictionaries
-    3. Functions
+    3. Functions 
+        - https://colab.research.google.com/drive/1ARBhl2gjQ3ncArXxY6TxCW9gz0JjNOMa?authuser=1#scrollTo=Zjq32MEdeE_I 
+        - https://colab.research.google.com/drive/1tFkX5p6dBd-DkeFHxMsONPMq0X4k7Nsl?authuser=1#scrollTo=rUQbZLt8hMn5 
     4. If statements
     5. While Loops
     6. Errors and exceptions
