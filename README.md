@@ -17,6 +17,7 @@ https://docs.google.com/document/d/1kPV7WH6bx1y6STddeg4Lg_2CLapnFwdK6DYRLRV9vVw/
     4. Git: using basic github for version control
       1. Using Gitlab
   2. coding
+    - https://colab.research.google.com/drive/1o1oBKRrLDGgVYkwpCPw5Uwiv26Smnzmx?authuser=1#scrollTo=lDwL6TwsRKqq 
     1. Variables:
       1. Strings
       2. Integers
