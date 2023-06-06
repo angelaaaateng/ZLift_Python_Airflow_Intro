@@ -6,10 +6,10 @@ Introduction to Python and Airflow Resources for Z-Lift Solutions
 https://docs.google.com/document/d/1kPV7WH6bx1y6STddeg4Lg_2CLapnFwdK6DYRLRV9vVw/edit 
 
 Python Crash Course 
-system set up
-Installation
-Python Interpreter
-Text Editor
+- system set up
+- Installation
+- Python Interpreter
+- Text Editor
 VS Code
 Anaconda
 Scripting vs Using Jupyter Notebook / Google Colab 
