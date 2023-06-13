@@ -52,3 +52,7 @@ https://docs.google.com/document/d/1kPV7WH6bx1y6STddeg4Lg_2CLapnFwdK6DYRLRV9vVw/
 - Readme and Documentation: https://airflow.apache.org/docs/apache-airflow/stable/start.html 
 
 ```pip install "apache-airflow[celery]==2.6.1" --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.6.1/constraints-3.7.txt"```
+
+
+- To view the webserver UI, go to: http://localhost:8080/
+- Note that the working directory is : (airflow_env) ateng@AmberZLift:/mnt/c/Users/63966/OneDrive - Z-Lift Solutions/Documents/GitHub/ZLift_Python_Airflow_Intro$
