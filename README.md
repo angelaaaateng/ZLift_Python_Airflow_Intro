@@ -46,3 +46,9 @@ https://docs.google.com/document/d/1kPV7WH6bx1y6STddeg4Lg_2CLapnFwdK6DYRLRV9vVw/
   9. Navigating the airflow UI
   10. Examining DAGs with the Airflow UI
   11. \*Docker
+
+
+# Apache Airflow Resources
+- Readme and Documentation: https://airflow.apache.org/docs/apache-airflow/stable/start.html 
+
+```pip install "apache-airflow[celery]==2.6.1" --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.6.1/constraints-3.7.txt"```
