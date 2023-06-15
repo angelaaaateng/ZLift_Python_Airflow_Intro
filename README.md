@@ -55,4 +55,12 @@ https://docs.google.com/document/d/1kPV7WH6bx1y6STddeg4Lg_2CLapnFwdK6DYRLRV9vVw/
 
 
 - To view the webserver UI, go to: http://localhost:8080/
-- Note that the working directory is : (airflow_env) ateng@AmberZLift:/mnt/c/Users/63966/OneDrive - Z-Lift Solutions/Documents/GitHub/ZLift_Python_Airflow_Intro$
+- Note that the working directory is : (airflow_env) ateng@AmberZLift:/mnt/c/Users/63966/"OneDrive - Z-Lift Solutions"/Documents/GitHub/ZLift_Python_Airflow_Intro$
+
+../../mnt/c/Users/63966/"OneDrive - Z-Lift Solutions"/Documents/GitHub/ZLift_Python_Airflow_Intro$
+
+cd /mnt/c/Users/63966/"OneDrive - Z-Lift Solutions"/Documents/GitHub/ZLift_Python_Airflow_Intro
+
+/mnt/c/Users/63966/"OneDrive - Z-Lift Solutions"/Documents/GitHub/ZLift_Python_Airflow_Intro
+
+source airflow_env2/bin/activate
